@@ -31,7 +31,7 @@ This week's task focuses on file handling, exception handling, and Python's buil
 
 ## ▶️ How to Run
 
-bash
+
 python main.py
 ## ✅ Outcome
 
